@@ -1,4 +1,4 @@
-// Practicing Dart Var in vs code
+// First Dart Code
 void main() {
   print("Hello Dart");
 }
