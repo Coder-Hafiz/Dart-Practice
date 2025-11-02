@@ -1,11 +1,11 @@
 //String - একটি Text Datatype. এটির বিট সংখা হল ১৬।
 
 void main() {
-  String my_n = "Hafiz"; // Double Quate String
-  var your_n = 'Dart';  // Single Quate String
+  String myN = "Hafiz"; // Double Quate String
+  var yourN = 'Dart';  // Single Quate String
 
-  print("My Name Is: $my_n");
-  print("Your Name Is: $your_n");
+  print("My Name Is: $myN");
+  print("Your Name Is: $yourN");
 }
 
 /* বর্ণনা: String ডেটা টাইপটি টেক্সট বা অক্ষরের একটি সিরিজ সংরক্ষণ করে।

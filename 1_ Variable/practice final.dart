@@ -19,9 +19,9 @@ void main() {
   // print(_pi);
 
   //regular var changable
-  String _Name = "Hafiz!";
-  print('Your Name Is: $_Name');
-  _Name = "Hafij!";
-  print('Your Name Is: $_Name');
+  String Name0 = "Hafiz!";
+  print('Your Name Is: $Name0');
+  Name0 = "Hafij!";
+  print('Your Name Is: $Name0');
 }
 

@@ -20,8 +20,8 @@ void main() {
   // print(_pi);
 
   //regular var changable
-  double _pi = 3.1416;
-  print(_pi);
-  _pi = 3.14167;
-  print(_pi);
+  double pi0 = 3.1416;
+  print(pi0);
+  pi0 = 3.14167;
+  print(pi0);
 }

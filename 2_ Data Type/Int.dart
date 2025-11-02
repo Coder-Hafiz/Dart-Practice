@@ -2,9 +2,9 @@
 
 void main() {
   int age = 23;
-  var your_age = 18;
+  var yourAge = 18;
   print("My Age Is: $age");
-  print("Your Age Is: $your_age");
+  print("Your Age Is: $yourAge");
 }
 
 //বর্ণনা: int ডেটা টাইপটি পূর্ণ সংখ্যা সংরক্ষণ করে। এটি ধনাত্মক এবং ঋণাত্মক উভয় সংখ্যা ধারণ করতে পারে।

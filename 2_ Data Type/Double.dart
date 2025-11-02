@@ -2,10 +2,10 @@
 
 void main() {
   double Mark = 3.80;
-  var y_mark = 3.96;
+  var yMark = 3.96;
 
   print("My mark Is: $Mark");
-  print("My mark Is: $y_mark");
+  print("My mark Is: $yMark");
 }
 
 

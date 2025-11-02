@@ -15,16 +15,16 @@ void main() {
 
   // Use is & is!
 
-  var m_age = 23;
-  var m_name = "hafizur rahman";
+  var mAge = 23;
+  var mName = "hafizur rahman";
 
-  if (m_age is String) {
+  if (mAge is String) {
     print("Yes It's Int Datatype");
   } else {
     print("Its Not 'String' Data Type!");
   }
 
-  if (m_name is! int) {
+  if (mName is! int) {
     print("This is a 'String' datatype");
   }
 }
