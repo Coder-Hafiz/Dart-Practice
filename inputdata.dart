@@ -5,5 +5,7 @@ import 'dart:io';
 void main() {
   print("Please Enter Your Name: ");
   var Name = stdin.readLineSync()!;
-  print("your Name Is: $Name");
+  print("Please Enter Your Age: ");
+  var age = int.parse(stdin.readLineSync()!);
+  print("your Name Is: $Name & Age Is: $age");
 }
