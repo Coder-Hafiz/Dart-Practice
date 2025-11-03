@@ -3,10 +3,10 @@
 
 void main(){
   int a = 10;
-int b = 5;
-print(a + b);  // 15
-print(a - b);  // 5
-print(a * b);  // 50
-print(a / b);  // 2.0
-print(a % b);  // 0
+  int b = 5;
+  print("Addition is: ${a + b}");  // 15
+  print("Substraction is: ${a - b}");  // 5
+  print("Multiplication is: ${a * b}");  // 50
+  print("Division is: ${a / b}");  // 2.0
+  print("Modulus is: ${a % b}");  // 0
 }
